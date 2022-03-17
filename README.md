@@ -2,7 +2,7 @@
  
 <div align="center">   
 
-### 👋🏻 Hi I'm Yejin Kim, a growing developer 🌱 
+### 👋🏻 Hi I'm Kim Yejin, a growing developer 🌱 
 <br>  
 
 #### 🛠 Tech Stack 📚  
