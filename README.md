@@ -17,13 +17,9 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <br>
 <h3> 💻 Certificate 📚 </h3>
-<h6>- Engineer Information Processing (정보처리기사)<br><br>
+<h6>- Engineer Information Processing<br><br>
 - AWS Certified Cloud Practitioner<br><br>
-- SQL Developer (SQLD)<br><br>
-- Computer Specialist in Spreadsheet & Database Level-1 (컴퓨터활용능력1급)</h6>
+- SQL Developer</h6>
 <br>
-<br>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhdgp17h001108mmkjoxz6w1/stats?cursusId=21&coalitionId=85" alt="yejinkim's 42 stats" /></a>
-
 </div>
  
